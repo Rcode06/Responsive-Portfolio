@@ -1,0 +1,1915 @@
+body{
+	background-image:url("../images/wavegrid.png");
+	
+  }
+.box{
+  height: 85px;
+  width: 1360px;
+  background: white;
+  position:relative; 
+  background: white;
+  border-bottom: 2px gray;
+  top:-7px;
+  left:50px;
+  z-index: 0;
+ }
+#hline{
+  background-color: #d7d7d7;
+  width:1360px; height:2px;
+  margin-top: 85px;
+  position:absolute;
+  z-index: 1;
+
+}
+.aboutcontact{
+  color:#4fa9a4;
+  font-size:25px;
+  font-family: Georgia;
+  position:relative;
+  top:-20px;
+}
+
+.box1{
+  height: 8px;
+  position:relative;
+  width: 1360px; 
+  background: #4aaaa5;
+  top: 565px;
+ }
+.box1contact{
+  height: 8px;
+  position:relative;
+  width: 1360px; 
+  background: #4aaaa5;
+  top: 810px;
+}
+.box1portfolio{
+  height: 8px;
+  position:relative;
+  width: 1360px; 
+  background: #4aaaa5;
+  top: 925px;
+
+}
+.bottom{
+  height: 85px;
+  width: 1360px; 
+  background: #666666;
+  position:relative;
+  top:8px;
+  }
+.bottomcontact{
+  height: 85px;
+  width: 1360px; 
+  background: #666666;
+  position:relative;
+  top:810px;
+ 
+  }
+.bottomportfolio{
+  height: 85px;
+  width: 1360px; 
+  background: #666666;
+  position:relative;
+  top:925px;
+ 
+  }
+.copyright{
+  font-family: arial;
+  font-size: 12px;
+  color:lightgray;
+  position:relative;
+  top:320px;
+  left:-305px;
+  }
+
+.copyrightcontact{
+  font-family: arial;
+  font-size: 12px;
+  color:lightgray;
+  position:relative;
+  left:550px;
+  top:30px;
+
+}
+.copyrightportfolio{
+	font-family: arial;
+  	font-size: 12px;
+  	color:lightgray;
+  	position:relative;
+  	top:30px;
+  	left:380px;
+
+}
+.wrapper {
+	width:960px;
+	margin:0 auto 0 auto;
+	background-width: 960px;
+	
+	}
+	
+.h1{
+	background: #4aaaa5;
+	text-align: center;
+	font-family: Georgia;
+	font-size: 19px;
+	height: 80px;
+	width:250px;
+	position:relative;
+	color:white;
+	z-index: 1;
+	top:-97px;
+	left:0;
+	padding-top: 10px;
+
+}
+
+.APC {
+	font-family: Arial;
+	font-size: 19px;
+	color:#b7b5b3;
+	word-spacing: 20px;
+	float:right;
+	margin-right:250px;
+	margin-top: 30px;
+	position: relative;
+	z-index: 0;
+
+}
+.APCcontact {
+	font-family: Arial;
+	font-size: 19px;
+	color:#b7b5b3;
+	word-spacing: 20px;
+	float:right;
+	margin-right:250px;
+	margin-top: 30px;
+	position: relative;
+	z-index: 0;
+
+}
+
+.APCportfolio {
+	font-family: Arial;
+	font-size: 19px;
+	color:#b7b5b3;
+	word-spacing: 20px;
+	float:right;
+	margin-right:250px;
+	margin-top: 30px;
+	position: relative;
+	z-index: 0;
+
+}
+#vline{
+	background-color: #d7d7d7;
+	width:1px; height:14px;
+	float:right;
+	margin-right:-170px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 1;
+}
+#vline2{
+	background-color: #d7d7d7;
+	width:1px; height:14px;
+	float:right;
+	margin-right:-63px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 2;
+
+}
+#vlinecont{
+	background-color: #d7d7d7;
+	width:1px; height:14px;
+	float:right;
+	margin-right:-170px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 1;
+}
+#vline2cont{
+	background-color: #d7d7d7;
+	width:1px; height:14px;
+	float:right;
+	margin-right:-63px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 2;
+
+}
+#vlineportf{
+	background-color: #d7d7d7;
+	width:1px; height:14px;
+	float:right;
+	margin-right:-170px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 1;
+}
+#vline2portf{
+	background-color: #d7d7d7;
+	width:1px; height:14px;
+	float:right;
+	margin-right:-63px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 2;
+
+}
+.aboutportfolio{
+	color:#4aaaa5;
+	font-size:30px;
+	top:30px;
+	padding-top:0px;
+	font-family: Georgia;
+	position:relative;
+}
+
+.aboutcontact{
+	color:#4aaaa5;
+	font-size:30px;
+	top:-80px;
+	padding-top:0px;
+	font-family: Georgia;
+	position:relative;
+	top:-50;
+
+}
+.hlinecontact{
+	background-color: #d7d7d7;
+	width:580px; height:2px;
+    top: -90px;
+	position:relative;
+	  
+}
+
+.wrap {
+	width:960px;
+	margin:0 auto 0 210px;
+
+}
+.imgportf1{
+	top:-640px;
+	position:relative;
+	left:30px;
+}
+
+.box1photo{
+	width:270px;
+ 	height:55px;
+ 	position:relative;
+    top:-705px;
+    left:30px;
+    background-color: #4aaaa5
+}
+
+.p1photo{
+	font-family: Times;
+	font-size:23px;
+	color:white; 
+	top:-765px;
+	position:relative;
+	left:45px;
+}
+
+.imgportf2{
+	top:-955px;
+	position:relative;
+	left:350px;
+}
+.box2photo{
+	width:270px;
+ 	height:55px;
+ 	position:relative;
+    top:-1020px;
+    left:350px;
+    background-color: #4aaaa5
+}
+.p2photo{
+	font-family: Times;
+	font-size:23px;
+	color:white; 
+	top:-1080px;
+	position:relative;
+	left:365px;
+}
+.imgportf3{
+	top:-1045px;
+	position:relative;
+	left:30px;
+}
+  .box3photo {
+  width:270px;
+  height:55px;
+  position:relative;
+  top:-1110px;
+  left:30px;
+  background-color: #4aaaa5
+
+}
+.p3photo{
+	font-family: Times;
+	font-size:23px;
+	color:white; 
+	top:-1170px;
+	position:relative;
+	left:45px;
+
+}
+.imgportf4{
+	top:-1360px;
+	position:relative;
+	left:350px;
+
+}
+
+ .box4photo {
+  width:270px;
+  height:55px;
+  position:relative;
+  top:-1425px;
+  left:350px;
+  background-color: #4aaaa5
+
+}
+.p4photo{
+	font-family: Times;
+	font-size:23px;
+	color:white; 
+	top:-1485px;
+	position:relative;
+	left:365px;
+
+}
+.imgportf5{
+	top:-1445px;
+	position:relative;
+	left:30px;
+
+}
+.box5photo {
+  width:270px;
+  height:55px;
+  position:relative;
+  top:-1510px;
+  left:30px;
+  background-color: #4aaaa5
+
+}
+.p5photo{
+	font-family: Times;
+	font-size:23px;
+	color:white; 
+	top:-1570px;
+	position:relative;
+	left:40px;
+
+}
+.about{ font-family: Georgia;
+    color:#4aaaa5;
+    font-size:25px;
+    position:relative;
+    top:5px;
+
+    }
+
+ .img{
+ 	padding-top: 15px;
+ 	float:left;
+ 	margin-right: 20px;
+ 	margin-bottom:5px;
+ }
+
+.p1{font-family:Arial;
+     font-size:20px;
+     margin-top:20px;
+     position:relative;
+     top:-85px;
+     color:#666666;
+
+ }
+ .p2{
+ 	font-family:Arial;
+     font-size:15px;
+     margin-top:20px;
+     margin-left: 10px;
+     position:relative;
+     top:-82px;
+  color:#b7b5b3;
+  
+ }
+ .p3{
+ 	font-family:Arial;
+     font-size:20px;
+     margin-top:20px;
+     position:relative;
+     top:-80px;
+     color:#666666;
+ }
+ .p4{
+ 	font-family:Arial;
+     font-size:15px;
+     margin-top:20px;
+     margin-left: 10px;
+     position:relative;
+     top:-86px;
+  color:#b7b5b3;
+ }
+ .p5{
+ 	font-family:Arial;
+     font-size:20px;
+     margin-top:20px;
+     position:relative;
+     top:-80px;
+     color:#666666;
+ }
+  .boxsubmit{
+ 	width:120px;
+ 	height:45px;
+ 	position:relative;
+    top:155px;
+    background-color: #4aaaa5
+ }
+
+ .p6{
+ 	font-family:Arial;
+     font-size:20px;
+     margin-top:20px;
+     margin-left:30px;
+     position:relative;
+     top:99px;
+     color:white;
+}
+.p { 
+	width:590px; 
+	height: 405px;
+	background: white;
+	font-family: Arial;
+	color:#b7b5b3;
+	position: relative;
+	top:-60px;
+	padding-left: 30px;
+	padding-right:30px;
+	padding-top:5px;
+	line-height: 1.4; 
+	z-index: 0;
+}
+.h3{
+	width: 270px;
+	height: 200px;
+	background: white;
+	font-family: Georgia;
+    color:#4aaaa5;
+    font-size:20px;
+    float:right;
+    left:340px;
+	position: relative;
+	top:-393px;
+	text-align: center;
+	padding-top: -10px;
+	z-index: 1;
+
+}
+
+.boxcontact{
+	width:590px; 
+	height: 650px;
+	background: white;
+	font-family: Arial;
+	color:#b7b5b3;
+	position: relative;
+	top:-60px;
+	padding-top: -20px;
+	padding-left: 30px;
+	padding-right:30px;
+	line-height: 1.3; 
+
+}
+.boxportfolio{
+	width:590px; 
+	height: 770px;
+	background: white;
+	font-family: Arial;
+	color:#b7b5b3;
+	text-align: left;
+	position: relative;
+	top:30px;
+	padding-top: -20px;
+	padding-left: 30px;
+	padding-right:30px;
+	line-height: 1.3;
+
+}
+.boxname{
+ 	width:580px;
+ 	height:35px;
+ 	border:1px #666666;
+ 	position:relative;
+    top:150px;
+    border-style: solid;
+    border-color: #d7d7d7;
+ }
+ .boxemail{
+ 	width:580px;
+ 	height:35px;
+ 	border:1px #666666;
+ 	position:relative;
+    top:195px;
+    border-style: solid;
+    border-color: #d7d7d7;
+
+ }
+ .boxmessage{
+ 	width:580px;
+ 	height:210px;
+ 	border:1px #666666;
+ 	position:relative;
+    top:-190px;
+    border-style: solid;
+    border-color: #d7d7d7;
+
+ }
+
+.h3contact{
+	width: 270px;
+	height: 200px;
+	background: white;
+	font-family: Georgia;
+    color:#4aaaa5;
+    font-size:20px;
+   left:660px;
+	position: relative;
+	top:-735px;
+	text-align: center;
+	padding-top: 5px;
+
+}
+.h3portfolio{
+	width: 270px;
+	height: 200px;
+	background: white;
+	font-family: Georgia;
+    color:#4aaaa5;
+    font-size:20px;
+    float:right;
+	position: relative;
+	top:-80px;
+	right:-340px;
+	text-align: center;
+	padding-top: 5px;
+
+
+}
+.logogit{
+	float:left;
+	margin-left: 25px;
+	margin-top: 18px;
+	height:62px; 
+	width:62px
+}
+.logolink{
+	float: left;
+	margin-left: 17px;
+	margin-top: 18px;
+
+}
+
+.logofeed{
+	float: right;
+	margin-right: 25px;
+	margin-top: 18px;
+}
+
+.logogitcontact{
+	float:left;
+	margin-left: 25px;
+	margin-top: 18px;
+	height:62px; 
+	width:62px
+}
+.logolinkcontact{
+	float: left;
+	margin-left: 17px;
+	margin-top: 18px;
+
+}
+
+.logofeedcontact{
+	float: right;
+	margin-right: 25px;
+	margin-top: 18px;
+}
+.logogitportf{
+	float:left;
+	margin-left: 25px;
+	margin-top: 18px;
+	height:62px; 
+	width:62px
+}
+.logolinkportf{
+	float: left;
+	margin-left: 17px;
+	margin-top: 18px;
+
+}
+
+.logofeedportf{
+	float: right;
+	margin-right: 25px;
+	margin-top: 18px;
+}
+/*------MEDIA---------*/
+/* index */
+
+@media screen and (max-width:980px){
+
+.h1 {  font-size: 100%;
+	   width:220px;
+	   position:relative;
+	   left:-45px;
+
+}
+
+.wrap{ width:100%;
+	   height:180px;
+	   position:relative;	
+}
+
+.APC {
+	font-family: Arial;
+	font-size: 19px;
+	word-spacing: 15px;
+	margin-right:550px;
+	margin-top: 30px;
+	left:-40px;
+	position: relative;
+	z-index: 0;
+}
+#vline{
+
+	margin-right:-120px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 1;
+}
+#vline2{
+	
+	margin-right:-20px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 2;
+
+}
+.about{ 
+
+    font-size:25px;
+    position:relative;
+    top:3px;
+
+    }
+
+.p { 
+   width:300px; 
+   height: 810px;
+   position: relative;
+   margin-right: 20px;
+   left:-45px;
+
+   }
+.h3{
+    width: 270px;
+	height: 200px;
+    margin-right:0px;
+    top:-803px;
+	
+}
+.bottom{
+  height: 85px;
+  width: 1360px; 
+  position:relative;
+  top:8px;
+  }
+
+ .box1{
+  height: 8px;
+  position:relative;
+  background: #4aaaa5;
+  top: 970px;
+ }
+
+.img{
+ 	
+ 	float:center;
+ 	height:200px; 
+ 	width:150px;
+ 	margin-top:5px;
+ 	margin-right: 100px;
+ 	margin-bottom:20px;
+ 	margin-left: 75px;
+ }
+ .copyright{
+  
+  position:relative;
+  text-align:center;
+  top:710px;
+  left:-100px;
+  }
+}
+/*Index*/
+@media screen and (max-width:768px){
+	.h1{
+	
+	height: 80px;
+	width:250px;
+	position:relative;
+	color:white;
+	z-index: 1;
+	top:-97px;
+	left:-120px;
+	padding-top: 10px;
+
+}
+.p { 
+	width:570px; 
+	height: 435px;
+	background: white;
+	font-family: Arial;
+	color:#b7b5b3;
+	text-align: left;
+	position: relative;
+	top:-60px;
+	left:-120px;
+	padding-left: -40px;
+	padding-right:30px;
+	padding-top:5px;
+	line-height: 1.5; 
+	z-index: 0;
+}
+.img{
+ 	
+ 	float:center;
+ 	height:200px; 
+ 	width:150px;
+ 	margin-right: 15px;
+ 	margin-bottom:-15px;
+ 	margin-left:-5px;
+ 	top:-110px;
+ }
+.APC {
+	font-family: Arial;
+	font-size: 19px;
+	word-spacing: 15px;
+	margin-right:660px;
+	margin-top: 30px;
+	
+	position: relative;
+	z-index: 0;
+}
+#vline{
+
+	margin-right:-120px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 1;
+}
+#vline2{
+	
+	margin-right:-20px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 2;
+}
+.h3{
+    width: 600px;
+	height: 200px;
+    margin-right:310px;
+    top:50px;
+    text-align: left;
+    padding-left: 25px;
+}
+
+.logogit{
+	float:left;
+	margin-left: 0px;
+	margin-top: 18px;
+}
+.logolink{
+	float: left;
+	margin-left: 15px;
+	margin-top: 18px;
+}
+
+.logofeed{
+	float: left;
+	height:62px;
+	width:62px;
+	margin-left:20px;
+	margin-top: 18px;
+}
+
+.bottom{
+  height: 85px;
+  width: 1360px; 
+  position:relative;
+  top:8px;
+  }
+
+ .box1{
+  height: 8px;
+  position:relative;
+  background: #4aaaa5;
+  top: 830px;
+ 
+ }
+ .copyright{
+   
+  top:170px;
+  left:-105px;
+  position: relative;
+ 
+  }
+}
+/*Index*/
+@media screen and (max-width:640px){
+.h1{
+	
+	height: 80px;
+	width:650px;
+	position:relative;
+	color:white;
+	z-index: 1;
+	top:-97px;
+	left:-160px;
+
+	padding-top: 10px;
+	text-align: center;
+}
+.box{
+  height: 85px;
+  width: 1360px;
+  background: white;
+  position:relative; 
+  background: white;
+  
+  top:40px;
+  left:50px;
+  z-index: 0;
+ }
+#hline{
+  background-color: #d7d7d7;
+  width:1360px; height:2px;
+  margin-top: 85px;
+  position:absolute;
+  z-index: 1;
+
+}
+
+.p { 
+	width:400px; 
+	height: 885px;
+	background: white;
+	font-family: Arial;
+	color:#b7b5b3;
+	text-align: left;
+	position: relative;
+	top:-30px;
+	left:-80px;
+	padding-left: -40px;
+	padding-right:30px;
+	padding-top:5px;
+	line-height: 1.5; 
+	z-index: 0;
+}
+.img{
+ 	
+ 	float:center;
+ 	height:360px; 
+ 	width:240px;
+ 	margin-right: 78px;
+ 	margin-bottom:20px;
+ 	margin-left:80px;
+ 	top:-110px;
+ }
+.APC {
+	font-family: Arial;
+	font-size: 16px;
+	word-spacing: 90px;
+	margin-right:840px;
+	margin-top: 55px;
+	text-indent: bold;
+	position: relative;
+	z-index: 0;
+}
+/*#vline{
+
+	margin-right:-120px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 1;
+}
+#vline2{
+	
+	margin-right:-20px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 2;
+}*/
+.h3{
+    width: 438px;
+	height: 170px;
+    /*margin-right:210px;*/
+    left:340px;
+    top:50px;
+    text-align: left;
+    padding-left: 25px;
+    font-size:16px;
+}
+
+.bottom{
+  height: 85px;
+  width: 1360px; 
+  position:relative;
+  top:8px;
+  }
+
+ .box1{
+  height: 8px;
+  position:relative;
+  background: #4aaaa5;
+  top: 1220px;
+ 
+ }
+ .copyright{
+   
+  top:170px;
+  left:-130px;
+  position: relative;
+ 
+  }
+}
+/* Portfolio*/
+@media screen and (max-width:980px){
+	
+.APCportf {
+	font-family: Arial;
+	font-size: 19px;
+	word-spacing: 15px;
+	margin-right:600px;
+	margin-top: 30px;
+	float: left;
+	left:-70px;
+	position: relative;
+	z-index: 0;
+}
+#vlineportf{
+	
+	float:right;
+	margin-right:-170px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 1;
+}
+#vline2portf{
+	
+	float:right;
+	margin-right:-63px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 2;
+
+}
+.boxportfolio{
+	width:270px; 
+	height: 1235px;
+	background: white;
+	font-family: Arial;
+	color:#b7b5b3;
+	text-align: left;
+	position: relative;
+	top:30px;
+	padding-top: -20px;
+	padding-left: 30px;
+	padding-right:30px;
+	line-height: 1.3;
+
+}
+.h3portfolio{
+	
+    float:right;
+	position: relative;
+	top:-80px;
+	right:-340px;
+	padding-top: 5px;
+
+
+}
+.aboutportfolio{
+	color:#4aaaa5;
+	font-size:30px;
+	top:30px;
+	padding-top:0px;
+	font-family: Georgia;
+	position:relative;
+}
+
+.imgportf1{
+	top:-1100px;
+	position:relative;
+	left:30px;
+}
+
+.box1photo{
+ 	position:relative;
+    top:-1165px;
+    left:30px;
+    background-color: #4aaaa5
+}
+
+.p1photo{
+	color:white; 
+	top:-1230px;
+	position:relative;
+	left:55px;
+}
+.imgportf2{
+	top:-1190px;
+	position:relative;
+	left:30px;
+}
+.box2photo{
+	position:relative;
+    top:-1255px;
+    left:30px;
+    background-color: #4aaaa5
+}
+.p2photo{
+	color:white; 
+	top:-1315px;
+	position:relative;
+	left:55px;
+}
+.imgportf3{
+	top:-1280px;
+	position:relative;
+	left:30px;
+}
+  .box3photo {
+  position:relative;
+  top:-1345px;
+  left:30px;
+  
+
+}
+.p3photo{
+	
+	color:white; 
+	top:-1410px;
+	position:relative;
+	left:50px;
+
+}
+.imgportf4{
+	top:-1390px;
+	position:relative;
+	left:30px;
+
+}
+
+ .box4photo {
+ position:relative;
+  top:-1435px;
+  left:30px;
+
+}
+.p4photo{
+	color:white; 
+	top:-1500px;
+	position:relative;
+	left:55px;
+
+}
+.imgportf5{
+	top:-1460px;
+	position:relative;
+	left:30px;
+
+}
+.box5photo {
+  position:relative;
+  top:-1525px;
+  left:30px;
+  background-color: #4aaaa5
+
+}
+.p5photo{
+	color:white; 
+	top:-1585px;
+	position:relative;
+	left:40px;
+
+}
+.bottomportfolio{
+  position:relative;
+  top:1375px;
+ 
+  }
+  .box1portfolio{
+  height: 8px;
+  position:relative;
+  width: 1360px; 
+  background: #4aaaa5;
+  top: 1375px;}
+
+  .copyrightportfolio{
+  	position:relative;
+    top:30px;
+  	left:370px;
+
+}
+}
+/*Portfolio*/
+@media screen and (max-width:768px){
+.APCportfolio {
+	word-spacing: 20px;
+	/*float:right;
+	margin-right:690px;*/
+	left:600px;
+	margin-top: 30px;
+	position: relative;
+	z-index: 0;
+
+}
+
+/*.APCportf {
+	font-family: Arial;
+	font-size: 19px;
+	word-spacing: 15px;
+	
+	margin-top: 30px;
+	float: left;
+	left:-70px;
+	position: relative;
+	z-index: 0;
+}*/
+#vlineportf{
+	
+	float:right;
+	margin-right:-310px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 1;
+}
+#vline2portf{
+	
+	float:right;
+	margin-right:-150px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 2;
+
+}
+.boxportfolio{
+	width:590px; 
+	height: 770px;
+	background: white;
+	font-family: Arial;
+	color:#b7b5b3;
+	text-align: left;
+	position: relative;
+	top:30px;
+	padding-top: -20px;
+	padding-left: 30px;
+	padding-right:30px;
+	line-height: 1.3;
+
+}
+.h3portfolio{
+	width: 625px;
+	height: 200px;
+	background: white;
+	text-align: left;
+	padding-left: 25px;
+    position: relative;
+	top:720px;
+	left:30px;
+	padding-top: 5px;
+
+
+}
+.logogit{
+	float:left;
+	left: 25px;
+	margin-top: 18px;
+}
+.logolink{
+	float: left;
+	margin-left: 17px;
+	margin-top: 18px;
+}
+
+/*.logofeed{
+	float: left;
+	margin-left:30px;
+	margin-top: 18px;
+}*/
+.aboutportfolio{
+	color:#4aaaa5;
+	font-size:30px;
+	top:30px;
+	padding-top:0px;
+	font-family: Georgia;
+	position:relative;
+}
+
+.imgportf1{
+	top:-640px;
+	position:relative;
+	left:30px;
+}
+
+.box1photo{
+	width:270px;
+ 	height:55px;
+ 	position:relative;
+    top:-705px;
+    left:30px;
+    background-color: #4aaaa5
+}
+
+.p1photo{
+	font-family: Times;
+	font-size:23px;
+	color:white; 
+	top:-765px;
+	position:relative;
+	left:45px;
+}
+
+.imgportf2{
+	top:-955px;
+	position:relative;
+	left:350px;
+}
+.box2photo{
+	width:270px;
+ 	height:55px;
+ 	position:relative;
+    top:-1020px;
+    left:350px;
+    background-color: #4aaaa5
+}
+.p2photo{
+	font-family: Times;
+	font-size:23px;
+	color:white; 
+	top:-1080px;
+	position:relative;
+	left:365px;
+}
+.imgportf3{
+	top:-1045px;
+	position:relative;
+	left:30px;
+}
+  .box3photo {
+  width:270px;
+  height:55px;
+  position:relative;
+  top:-1110px;
+  left:30px;
+  background-color: #4aaaa5
+
+}
+.p3photo{
+	font-family: Times;
+	font-size:23px;
+	color:white; 
+	top:-1170px;
+	position:relative;
+	left:45px;
+
+}
+.imgportf4{
+	top:-1360px;
+	position:relative;
+	left:350px;
+
+}
+
+ .box4photo {
+  width:270px;
+  height:55px;
+  position:relative;
+  top:-1425px;
+  left:350px;
+  background-color: #4aaaa5
+
+}
+.p4photo{
+	font-family: Times;
+	font-size:23px;
+	color:white; 
+	top:-1485px;
+	position:relative;
+	left:365px;
+
+}
+.imgportf5{
+	top:-1445px;
+	position:relative;
+	left:30px;
+
+}
+.box5photo {
+  width:270px;
+  height:55px;
+  position:relative;
+  top:-1510px;
+  left:30px;
+  background-color: #4aaaa5
+
+}
+.p5photo{
+	font-family: Times;
+	font-size:23px;
+	color:white; 
+	top:-1570px;
+	position:relative;
+	left:40px;
+
+}
+.bottomportfolio{
+  position:relative;
+  top:1150px;
+ 
+  }
+  .box1portfolio{
+  position:relative;
+  width: 1360px; 
+  top: 1150px;}
+
+  .copyrightportfolio{
+  	position:relative;
+    top:30px;
+  	left:310px;
+  }
+  .logogitportf{
+	float:left;
+	margin-left: 0px;
+	margin-top: 18px;
+	height:62px; 
+	width:62px
+}
+.logolinkportf{
+	float: left;
+	margin-left: 17px;
+	margin-top: 18px;
+
+}
+
+.logofeedportf{
+	float: left;
+	margin-left: 20px;
+	margin-top: 18px;
+}
+}
+/*Portfolio*/
+@media screen and (max-width:640px){
+	.APCportfolio {
+	word-spacing: 20px;
+	float:right;
+	margin-right:920px;
+	margin-top: 50px;
+	position: relative;
+	z-index: 0;
+}
+/*#vlineportf{
+	
+	float:right;
+	margin-right:-270px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 1;
+}
+#vline2portf{
+	
+	float:right;
+	margin-right:-73px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 2;
+
+}*/
+
+.boxportfolio{
+	width:270px; 
+	height: 1185px;
+	position: relative;
+	top:80px;
+	left:155px;
+	padding-top: -20px;
+	padding-left: 30px;
+	padding-right:30px;
+	
+}
+
+.aboutportfolio{
+	color:#4aaaa5;
+	font-size:30px;
+	top:30px;
+	padding-top:0px;
+	font-family: Georgia;
+	position:relative;
+}
+
+.imgportf1{
+	top:-1000px;
+	position:relative;
+	left:-5px;
+}
+
+.box1photo{
+ 	position:relative;
+    top:-1065px;
+    left:185px;
+    background-color: #4aaaa5
+}
+
+.p1photo{
+	color:white; 
+	top:-1130px;
+	position:relative;
+	left:-05px;
+}
+.imgportf2{
+	top:-1105px;
+	position:relative;
+	left:-05px;
+}
+.box2photo{
+	position:relative;
+    top:-1170px;
+    left:185px;
+    
+}
+.p2photo{
+	color:white; 
+	top:-1230px;
+	position:relative;
+	left:-05px;
+}
+.imgportf3{
+	top:-1205px;
+	position:relative;
+	left:-5px;
+}
+  .box3photo {
+  position:relative;
+  top:-1270px;
+  left:185px;
+
+}
+.p3photo{
+	
+	color:white; 
+	top:-1335px;
+	position:relative;
+	left:-10px;
+
+}
+.imgportf4{
+	top:-1305px;
+	position:relative;
+	left:-5px;
+
+}
+
+ .box4photo {
+ position:relative;
+  top:-1370px;
+  left:185px;
+
+}
+.p4photo{
+	color:white; 
+	top:-1435px;
+	position:relative;
+	left:-5px;
+
+}
+.imgportf5{
+	top:-1400px;
+	position:relative;
+	left:-5px;
+
+}
+.box5photo {
+  position:relative;
+  top:-1465px;
+  left:185px;
+  background-color: #4aaaa5
+
+}
+.p5photo{
+	color:white; 
+	top:-1525px;
+	position:relative;
+	left:-5px;
+
+}
+
+.h3portfolio{
+	width: 305px;
+	height: 150px;
+	background: white;
+	text-align: left;
+	padding-left: 25px;
+    position: relative;
+	top:1140px;
+	left:30px;
+	padding-top: 5px;
+
+
+}
+.logogit{
+	float:left;
+	left: 25px;
+	margin-top: 5px;
+}
+.logolink{
+	float: left;
+	margin-left: 17px;
+	margin-top: 5px;
+}
+
+.logofeed{
+	float:left;
+	margin-left:20px;
+	margin-top: 5px;
+}
+.bottomportfolio{
+  position:relative;
+  top:1540px;
+ 
+  }
+  .box1portfolio{
+  position:relative;
+  width: 1360px; 
+  top: 1540px;}
+
+.copyrightportfolio{
+  	position:relative;
+    top:30px;
+  	left:240px;
+  }
+
+/*#vline{
+
+	margin-right:120px;
+	margin-top: 55px;
+	position: relative;
+	z-index: 1;
+}
+#vline2{
+	
+	margin-right:150px;
+	margin-top: 55px;
+	position: relative;
+	z-index: 2;
+
+}*/
+.logogitportf{
+	height: 40px;
+	width: 40px;
+	float:left;
+	margin-left: 0px;
+	margin-top: 3px;
+}
+.logolinkportf{
+	height: 40px;
+	width: 40px;
+	float: left;
+	margin-left: 17px;
+	margin-top: 3px;
+
+}
+
+.logofeedportf{
+	height: 40px;
+	width: 40px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 3px;
+}
+}
+
+/*Contact*/
+@media screen and (max-width:980px){
+.APCcontact {
+	
+	margin-right:540px;
+	margin-top: 30px;
+	position: relative;
+	z-index: 0;
+
+}
+
+#vlinecont{
+	
+	float:right;
+	margin-right:-170px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 1;
+}
+#vline2cont{
+	
+	float:right;
+	margin-right:-63px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 2;
+
+}
+.h3contact{
+	
+   left:420px;
+	position: relative;
+	top:-735px;
+	text-align: center;
+	padding-top: 5px;
+
+}
+
+.boxcontact{
+	width:340px; 
+	height: 650px;
+	position: relative;
+	top:-60px;
+	left:-45px;
+}
+.hlinecontact{
+	
+	width:340px; 
+	height:2px;
+    top: -90px;
+	position:relative;
+	  
+}
+.boxname{
+ 	width:340px;
+ 	height:35px;
+    
+ }
+ .boxemail{
+ 	width:340px;
+ 	height:35px;
+ 
+ }
+ .boxmessage{
+ 	width:340px;
+ 	height:210px;
+ 	
+ }
+ .copyrightcontact{
+  font-family: arial;
+  font-size: 12px;
+  color:lightgray;
+  position:relative;
+  left:200px;
+  top:40px;
+
+}
+
+}
+/*Contact*/
+@media screen and (max-width:768px) {
+.boxcontact{
+	width:590px; 
+	height: 650px;
+	
+	position: relative;
+	top:-60px;
+	left:-150px;
+	padding-top: -20px;
+	padding-left: 30px;
+	padding-right:30px;
+	line-height: 1.3; 
+
+}
+.hlinecontact{
+	
+	width:585px; 
+	height:2px;
+    top: -90px;
+	position:relative;
+	  
+}
+.boxname{
+ 	width:585px;
+ 	height:35px;
+    
+ }
+ .boxemail{
+ 	width:585px;
+ 	height:35px;
+ 
+ }
+ .boxmessage{
+ 	width:585px;
+ 	height:210px;
+ 	
+ }
+/*.h1{
+	background: #4aaaa5;
+	text-align: center;
+	font-family: Georgia;
+	font-size: 19px;
+	height: 80px;
+	width:250px;
+	position:relative;
+	color:white;
+	z-index: 1;
+	top:-97px;
+	left:-20px;
+	padding-top: 10px;
+
+}*/
+.APCcontact {
+	word-spacing: 20px;
+	float:right;
+	margin-right:710px;
+	margin-top: 30px;
+	position: relative;
+	z-index: 0;
+	
+
+}
+#vlinecont{
+	float:right;
+	margin-right:-170px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 1;
+}
+#vline2cont{
+	float:right;
+	margin-right:-63px;
+	margin-top: 35px;
+	position: relative;
+	z-index: 2;
+
+}
+
+.h3contact{
+	
+   left:-30px;
+	position: relative;
+	top:-45px;
+	text-align: left;
+	padding-left:30px;
+	padding-top: 5px;
+	width: 620px;
+	height: 200px;
+
+}
+
+.logogitcontact{
+	float:left;
+	margin-left: 0px;
+	margin-top: 18px;
+	height:62px; 
+	width:62px
+}
+.logolinkcontact{
+	float: left;
+	margin-left: 17px;
+	margin-top: 18px;
+
+}
+
+.logofeedcontact{
+	float: left;
+	margin-left: 20px;
+	margin-top: 18px;
+}
+.box1contact{
+  height: 8px;
+  position:relative;
+  width: 1360px; 
+  background: #4aaaa5;
+  top: 1050px;
+}
+.bottomcontact{
+  height: 85px;
+  width: 1360px; 
+  background: #666666;
+  position:relative;
+  top:1050px;
+ 
+  }
+  .copyrightcontact{
+  font-family: arial;
+  font-size: 12px;
+  color:lightgray;
+  position:relative;
+  left:140px;
+  top:40px;
+
+}
+}
+/*Contact*/
+@media screen and (max-width:640px){
+.APCcontact {
+	font-size: 16px;
+	word-spacing: 100px;
+	float:right;
+	margin-right:840px;
+	margin-top: 50px;
+	position: relative;
+	z-index: 0;
+
+}
+#vlinecont{
+	float:right;
+	margin-right:-270px;
+	margin-top: 55px;
+	position: relative;
+	z-index: 1;
+}
+#vline2cont{
+	float:right;
+	margin-right:-103px;
+	margin-top: 55px;
+	position: relative;
+	z-index: 2;
+
+}
+.boxcontact{
+	width:480px; 
+	height: 650px;
+	
+	position: relative;
+	top:-20px;
+	left:-100px;
+	padding-top: -20px;
+	padding-left: 30px;
+	padding-right:30px;
+	line-height: 1.3; 
+
+}
+.boxname{
+ 	width:480px;
+ 	height:35px;
+    
+ }
+ .boxemail{
+ 	width:480px;
+ 	height:35px;
+ 
+ }
+ .boxmessage{
+ 	width:480px;
+ 	height:210px;
+ 	
+ }
+.hlinecontact{
+	
+	width:480px; 
+	height:2px;
+    top: -90px;
+	position:relative;
+	  
+}
+
+.copyrightcontact{
+  font-family: arial;
+  font-size: 12px;
+  color:lightgray;
+  position:relative;
+  /*text-align:center;*/
+  top:40px;
+  left:250px;
+  margin-right:400;
+
+}
+.h3contact{
+	
+   left:-30px;
+	position: relative;
+	top:-45px;
+	text-align: left;
+	padding-left:30px;
+	padding-top: 5px;
+	width: 510px;
+	height: 200px;
+
+}
+
+	
+	
+
+
+
