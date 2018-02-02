@@ -6,13 +6,13 @@
 for the different pages contact, index and portfolio
 
 *980px
-![Screenshot](assets/images/aboutme980px.jpg)
+![Screenshot](assets/images/aboutme980.jpg)
 
 *768px
-![Screenshot](assets/images/aboutme768px.jpg)
+![Screenshot](assets/images/aboutme768.jpg)
 
 *640px
-![Screenshot](assets/images/aboutme640px.jpg)
+![Screenshot](assets/images/aboutme640.jpg)
 
 *980px
 ![Screenshot](assets/images/contact980px.jpg)
